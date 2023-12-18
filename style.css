@@ -1,0 +1,189 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.item {
+    display: flex ;
+    background-color:black;
+    color :aliceblue;
+    height: 35px;
+    font-size: 15px;
+    width: 100%;
+    
+    
+    
+
+}
+.item h3{
+    padding-left: 25px;
+   padding-top: 6px;
+   padding-right: 25px;
+   
+    
+}
+#l{
+    background-color:#009688;
+padding-right: 23px;  
+}
+#l:hover{
+    background-color: rgba(128, 128, 128, 0.322);
+    color:black
+}
+.item h3:hover{
+    background-color: white;
+    color:black
+}
+.i1{
+    background-image: (images/sailboat.jpg);
+    width: 100%;
+    height: 510px;
+}
+.i2{
+    background-color:black;
+    color:white;
+    width: 520px;
+    padding-left:25px;
+    margin-left: 12px;
+    margin-top: -70px;
+}
+.item1{
+    text-align: center;
+    margin-top: 100px;
+}
+.deal{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.icon1{
+font-size: 13px;
+}
+.titan{
+    margin-top: 30px;
+    display:flex;
+    justify-content:space-around;
+    text-align: center;
+}
+.icon3{
+    width: 23%;
+    background-color: white;
+  
+}
+.icon2{
+    width: 23%;
+    color:white;
+    
+}
+.deal1
+{
+    width: 100%;
+}
+.titan2{
+    padding-top: 70px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+    background-color: rgba(29, 26, 26, 0.856);
+    padding-bottom: 55px;
+}
+.item2{
+    text-align: center;
+    margin-top: 80px;
+}
+.titan3:hover{
+    box-shadow: 
+    5px 5px 5px grey,
+    -5px -5px 5px grey;
+}
+.titan3{    
+    margin-top: 50px;
+    text-align: center;
+    
+   
+    
+}
+.letter{
+    background-color: black;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:white;
+}
+    .titan3  p,.r1,.r2,.r3{
+      
+        font-size: 19px;
+        border-top:  1px solid grey;
+        border-left:  1px solid grey;
+        border-right:  1px solid grey;
+    
+        
+        padding-top: 15px;
+        padding-bottom:15px
+    }
+    .r1{
+        
+        font-size:40px;
+        padding-top: 25px;
+        padding-bottom : 25px
+    }
+    .r2
+    {
+    
+       font-size: 20px;
+    }
+    .r3{
+        margin-top: 20px;
+        font-size: 20px;
+        background-color: #009688;
+        margin-left: 150px;
+        margin-right: 150px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+       
+    }
+    .titan4{
+        display: flex;
+        justify-content: space-around;
+    }#g{
+        background-color: grey;
+    }
+    span{
+        font-size: 15px;
+    }
+    .icon7{
+        background-color:rgba(128, 128, 128, 0.158);
+        padding-top: 5px;
+        padding-bottom: 20px;
+        border-top: 1px solid grey;
+        color: white;
+        border: 1px solid grey;
+    }
+    .icon7 .r3:hover{
+            background-color: grey;
+            color: black;
+            
+    }
+    .im1{
+        margin-top: 70px;
+    
+    }
+    .icon3 h2{
+       margin-left: 20px;
+    }
+    .icon3 h3{
+        margin-left: 20px;
+    }
+    .icon3 h4{
+        margin-left: 20px;
+        padding-bottom: 10px;
+    }
+    .im2{
+        width: 100%;
+    }
+    .deal:hover{
+    
+    }
